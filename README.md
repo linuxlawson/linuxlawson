@@ -1,4 +1,4 @@
-## Is this really necessary?
+Is this really necessary?
 
 <!--
 **linuxlawson/linuxlawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
